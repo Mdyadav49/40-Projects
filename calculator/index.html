@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculator using javascript</title>
+    <link href="https://fonts.googleapis.com/css?family=Poppins:100,100italic,200,200italic,300,300italic,regular,italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic" rel="stylesheet" />
+    <link rel="stylesheet" href="calculator.css">
+    <script src="calculator.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <form>
+            <div>
+                <input type="text" name="display" value="" id="display" readonly placeholder="output">
+            </div>
+
+            <div class="buttons-container" >
+            <input type="button" value="AC" class="operator" onclick="clearDisplay()">
+            <input type="button" value="DE" class="operator" onclick="DeleteLastInput()">
+            <input type="button" value="." class="operator" onclick="appendOperatorToDisplay('.')">
+            <input type="button" value="/" class="operator" onclick="appendOperatorToDisplay('/')">
+            <input type="button" value="7" onclick="appendNumbersToDisplay('7')">
+            <input type="button" value="8" onclick="appendNumbersToDisplay('8')">
+            <input type="button" value="9" onclick="appendNumbersToDisplay('9')">
+            <input type="button" value="*" class="operator" onclick="appendOperatorToDisplay('*')">
+            <input type="button" value="4" onclick="appendNumbersToDisplay('4')">
+            <input type="button" value="5" onclick="appendNumbersToDisplay('5')">
+            <input type="button" value="6" onclick="appendNumbersToDisplay('6')">
+            <input type="button" value="-" class="operator" onclick="appendOperatorToDisplay('-')">
+            <input type="button" value="1" onclick="appendNumbersToDisplay('1')">
+            <input type="button" value="2" onclick="appendNumbersToDisplay('2')">
+            <input type="button" value="3" onclick="appendNumbersToDisplay('3')">
+            <input type="button" value="+" class="operator" onclick="appendOperatorToDisplay('+')">
+            <input type="button" value="00" onclick="appendNumbersToDisplay('00')">
+            <input type="button" value="0" onclick="appendNumbersToDisplay('0')">
+            <input type="button" value="=" class="operator" id="equals" onclick="calculate()">
+        </div>
+        </form>
+    </div>  
+
+</body>
+</html>

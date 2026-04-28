@@ -44,7 +44,11 @@ Focused on building:
 ## 🖼️ Portfolio Preview
 
 <p align="center">
-  <img src="./assets/portfolio-preview.png" alt="Portfolio Preview" width="800"/>
+  <img src="./images/homepage.png" width="1000" />
+  
+  <br><br>
+
+  <img src="./images/about.png" width="1000" />
 </p>
 
 ---

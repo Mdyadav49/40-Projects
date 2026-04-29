@@ -30,7 +30,7 @@ Focused on building:
 ## 🌐 Explore My Work  
 &nbsp;
 <p align="center">
-<a href="https://construction-websit.netlify.app/" target="_blank">
+<a href="https://40-projects.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_View_Live_Project-16A34A?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
 

@@ -27,19 +27,23 @@ Focused on building:
 
 ---
 
-## 🌐 Explore My Work
-
+## 🌐 Explore My Work  
+&nbsp;
 <p align="center">
-  <a href="https://40-projects.netlify.app/">
-    <img src="https://img.shields.io/badge/🚀 View Live Projects-000?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
+<a href="https://construction-websit.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_View_Live_Project-16A34A?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/Mdyadav49">
+<a href="https://github.com/Mdyadav49/Construction_Website/tree/main" target="_blank">
+  <img src="https://img.shields.io/badge/📂_View_Source_Code-24292F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+ <a href="https://github.com/Mdyadav49">
     <img src="https://img.shields.io/badge/💻 View GitHub Profile-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
+&nbsp;
+&nbsp;
+
 
 ## 🖼️ Portfolio Preview
 
